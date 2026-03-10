@@ -10479,6 +10479,7 @@ berniat
 bernikab
 bernikah
 bernilai
+bahlil
 bernisbah
 bernitrogen
 bernoda
@@ -26870,6 +26871,7 @@ fjord
 fkg
 fkh
 fkip
+fufu
 fkss
 fktif
 fla
@@ -50367,6 +50369,7 @@ melarungkan
 melarut
 melarutkan
 melarutnya
+mbg
 melas
 melasa
 melasah
@@ -66901,6 +66904,8 @@ oogenesis
 ooglea
 oogonia
 oogonium
+oolit
+oost
 ooh
 ookinesis
 oolit
@@ -84249,6 +84254,7 @@ sekjen
 sekneg
 seko
 sekoci
+solo
 sekodi
 sekoi
 sekolah
@@ -98593,6 +98599,8 @@ wakun
 wakunya
 wakwak
 wal
+wowo
+wiwi
 wala
 walabi
 walad
